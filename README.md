@@ -1,4 +1,4 @@
-# UTD Academic Information Chatbot (FATIMA)
+# Chanky Language Model (Chanky)
 
 FATIMA (Flexible Academic Text Intelligence and Management Assistant) is an advanced AI-powered chatbot that leverages state-of-the-art Natural Language Processing (NLP) and Large Language Models (LLMs) to provide intelligent responses about the University of Texas at Dallas (UTD) academic programs, with a focus on the Jindal School of Management.
 
